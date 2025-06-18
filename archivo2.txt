@@ -1,1 +1,2 @@
 Este es un segundo archivo
+Segunda línea para GitHub
