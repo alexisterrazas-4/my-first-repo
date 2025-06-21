@@ -4,3 +4,4 @@ Una tercera línea.
 Última práctica de repaso
 Hola GitHub
 Estoy editando desde la rama de prueba
+Estoy aprendiendo ramas como si trabajara en equipo.
