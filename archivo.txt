@@ -7,3 +7,4 @@ Estoy editando desde la rama de prueba
 Estoy aprendiendo ramas como si trabajara en equipo.
 Línea agregada desde GitHub en rama cambio-remoto
 Línea de repaso con ramas en Git.
+Línea creada para subir ramas al remoto.
